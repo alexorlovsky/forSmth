@@ -1,2 +1,3 @@
 Hello friend!
 It's a new file.
+1
